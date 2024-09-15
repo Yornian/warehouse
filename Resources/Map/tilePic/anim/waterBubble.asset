@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: waterBubble
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 2115481369, guid: eb7ed37c4bc0e28478f4422ab30e95f2, type: 3}
+  - {fileID: 791095687, guid: eb7ed37c4bc0e28478f4422ab30e95f2, type: 3}
+  - {fileID: -1217648931, guid: eb7ed37c4bc0e28478f4422ab30e95f2, type: 3}
+  - {fileID: 1216389067, guid: eb7ed37c4bc0e28478f4422ab30e95f2, type: 3}
+  - {fileID: 283149014, guid: eb7ed37c4bc0e28478f4422ab30e95f2, type: 3}
+  - {fileID: -452306462, guid: eb7ed37c4bc0e28478f4422ab30e95f2, type: 3}
+  - {fileID: 2001585655, guid: eb7ed37c4bc0e28478f4422ab30e95f2, type: 3}
+  - {fileID: -353409926, guid: eb7ed37c4bc0e28478f4422ab30e95f2, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
