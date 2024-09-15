@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - backpack
+  - itemslot
+  - Pickup
+  - floor
+  - door
+  - building
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - item
+  - Water
+  - UI
+  - floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: floor
+    uniqueID: 2671932821
+    locked: 0
+  - name: grid
+    uniqueID: 1959031879
+    locked: 0
+  - name: building
+    uniqueID: 1113295443
+    locked: 0
+  - name: obj
+    uniqueID: 200901779
+    locked: 0
+  - name: player
+    uniqueID: 2157310629
+    locked: 0
